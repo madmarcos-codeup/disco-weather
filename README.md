@@ -23,3 +23,6 @@ If you have any questions or issues with the application, please contact us at s
 
 ## Conclusion
 Disco Weather is a simple and easy-to-use weather map application that provides a 5-day forecast for any location. Whether you're planning a trip or just want to know the weather for the week, Disco Weather has got you covered.
+
+## APIs Used
+https://openweathermap.org/api/one-call-api#parameter
